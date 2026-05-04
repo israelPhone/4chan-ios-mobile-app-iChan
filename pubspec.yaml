@@ -27,8 +27,9 @@ dependencies:
   flutter_vlc_player:
     git: git@github.com:solid-software/flutter_vlc_player.git
   chewie: ^0.9.10
-  flutter_html:
-    git: git@github.com:Zchandev/flutter_html.git
+ flutter_html:
+  git:
+    url: https://github.com/Zchandev/flutter_html.git
   extended_image: ^1.1.1
   path_provider: ^1.6.11
   package_info: ^0.4.0+16
