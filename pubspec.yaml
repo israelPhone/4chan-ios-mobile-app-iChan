@@ -25,11 +25,11 @@ dependencies:
   shimmer: ^1.1.0
   video_player: ^0.10.10
   flutter_vlc_player:
-    git: git@github.com:solid-software/flutter_vlc_player.git
+    git: https://github.com/solid-software/flutter_vlc_player.git
   chewie: ^0.9.10
- flutter_html:
-  git:
-    url: https://github.com/Zchandev/flutter_html.git
+  flutter_html:
+    git:
+      url: https://github.com/Zchandev/flutter_html.git
   extended_image: ^1.1.1
   path_provider: ^1.6.11
   package_info: ^0.4.0+16
@@ -47,12 +47,9 @@ dependencies:
   universal_html: ^1.2.3
   wc_flutter_share: ^0.2.2
   permission_handler: ^5.0.1+1
-  # audioplayers: ^0.15.1
   disk_space: ^0.0.3
   flutter_secure_storage: ^3.3.3
   retry: ^3.0.1
-  # flutter_apns:
-  #   git: git@github.com:FloPMT/flutter-apns.git
   pull_to_refresh: ^1.6.2
   flutter_slidable: ^0.5.4
   cookie_jar: ^1.0.0
@@ -61,7 +58,6 @@ dependencies:
   gallery_saver: ^2.0.1
   image_gallery_saver: ^1.5.0
   youtube_player_flutter: ^7.0.0+7
-  # render_metrics: ^1.0.1
   ota_update: ^2.4.1
   flutter_hooks: ^0.13.1
   flutter_image_compress: ^0.7.0
@@ -78,12 +74,6 @@ dev_dependencies:
   flutter_native_splash: ^0.1.9
   hive_generator: ^0.7.0+2
   build_runner: ^1.8.0
-  # moor_generator: any
-  # test: any
-  # flutter_test:
-  #   sdk: flutter
-  # flutter_driver:
-  #   sdk: flutter
 dependency_overrides:
   permission_handler: ^5.0.1+1
   flutter_svg: ^0.18.0
